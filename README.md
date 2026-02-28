@@ -76,6 +76,3 @@ By the end of this challenge, I will have:
 
 ✅ A solid GitHub contribution graph 😄
 
-🔥 Day 1 Starts Now.
-
-Let’s do this. 💪
